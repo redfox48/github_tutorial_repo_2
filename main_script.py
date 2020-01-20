@@ -6,3 +6,6 @@ def feature_a0():
 
 def feature_a1():
     pass
+
+def feature_a2():
+    pass
