@@ -9,3 +9,7 @@ def feature_a1():
 
 def feature_a2():
     pass
+
+# adding bug fix
+def bug_fix():
+    pass
